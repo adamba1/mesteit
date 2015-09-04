@@ -1,0 +1,23 @@
+.testing2{
+	background-color: #A4A4A4;
+	padding-bottom: 200px;
+}
+.testing3{
+	background: url("../images/prof.jpeg");
+	background: url("../images/prof1.jpeg");
+	background: url("../images/prof.jpeg");
+
+}
+.roundedimg{
+	border-radius: 50%;
+}
+.fontsize1{
+	font-size: 48px;
+	color: #3E3E3E;
+	text-align: center;
+}
+.fontsize2{
+	font-size: 64px;
+	color: #222;
+	text-align: center;
+}
